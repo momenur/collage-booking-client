@@ -1,0 +1,101 @@
+[
+    {
+        "_id": "609c805b10034f001e001101",
+        "college_name": "ABC University",
+        "admission_dates": "Aug 1 - Sep 30",
+        "events": "Annual fest, workshops",
+        "research_history": "Pioneering research since 1950",
+        "sports": "Football, Basketball, Tennis",
+        "details": "ABC University is a top-ranked institution with state-of-the-art facilities. It has a rich history of pioneering research dating back to 1950. The college hosts various events like the annual fest and workshops. Students actively participate in sports like football, basketball, and tennis.",
+        "image_url": "https://ibb.co/vzn6T6M",
+        "category": "popular"
+      },
+      {
+        "_id": "609c805b10034f001e001102",
+        "college_name": "XYZ College",
+        "admission_dates": "Jul 15 - Aug 31",
+        "events": "Cultural night, seminars",
+        "research_history": "Innovative research programs",
+        "sports": "Cricket, Badminton, Athletics",
+        "details": "XYZ College is a leading institution with diverse academic programs. It has a vibrant cultural scene, with events like the cultural night and seminars. The college encourages sports like cricket, badminton, and athletics to promote a healthy lifestyle.",
+        "image_url": "https://ibb.co/QmsBPG2",
+        "category": "popular"
+      },
+      {
+        "_id": "609c805b10034f001e001103",
+        "college_name": "PQR Institute",
+        "admission_dates": "Sep 1 - Oct 15",
+        "events": "Tech expo, symposiums",
+        "research_history": "Contributing to cutting-edge advancements",
+        "sports": "Volleyball, Table Tennis",
+        "details": "PQR Institute is a renowned institution for academic excellence. With a history of impactful research, it conducts events like the tech expo and symposiums. The institute encourages sports like volleyball and table tennis for students' holistic development.",
+        "image_url": "https://ibb.co/YR7n4GL",
+        "category": "average"
+      },
+      {
+        "_id": "609c805b10034f001e001104",
+        "college_name": "LMN College",
+        "admission_dates": "Jul 10 - Aug 30",
+        "events": "Literary festival, conferences",
+        "research_history": "Legacy of impactful research",
+        "sports": "Soccer, Swimming",
+        "details": "LMN College is dedicated to nurturing talents with a global outlook. It has a rich legacy of impactful research and hosts events like the literary festival and conferences. The college encourages sports like soccer and swimming for students' overall growth.",
+        "image_url": "https://ibb.co/g4zZn80",
+        "category": "average"
+      },
+      {
+        "_id": "609c805b10034f001e001105",
+        "college_name": "EFG University",
+        "admission_dates": "Aug 15 - Sep 30",
+        "events": "Science fair, debates",
+        "research_history": "Advancing knowledge for a better world",
+        "sports": "Hockey, Chess",
+        "details": "EFG University is dedicated to academic and research excellence. With a focus on fostering innovation, the college organizes events like the science fair and debates. Students actively participate in sports like hockey and chess.",
+        "image_url": "https://ibb.co/dfKHkhD",
+        "category": "average"
+      },
+      {
+        "_id": "609c805b10034f001e001106",
+        "college_name": "IJK Institute",
+        "admission_dates": "Sep 1 - Oct 31",
+        "events": "Art exhibition, workshops",
+        "research_history": "Empowering innovation through research",
+        "sports": "Basketball, Cricket",
+        "details": "IJK Institute is renowned for promoting creativity and critical thinking. The college conducts events like the art exhibition and workshops to encourage artistic pursuits. Sports like basketball and cricket are actively encouraged for students' physical development.",
+        "image_url": "https://ibb.co/vBjww9N",
+        "category": "average"
+      },
+      {
+        "_id": "609c805b10034f001e001107",
+        "college_name": "OPQ College",
+        "admission_dates": "Jul 20 - Aug 31",
+        "events": "Music fest, career fair",
+        "research_history": "Championing breakthrough discoveries",
+        "sports": "Tennis, Athletics",
+        "details": "OPQ College empowers students to achieve their dreams. With a focus on groundbreaking research, it organizes events like the music fest and career fair. The college encourages sports like tennis and athletics for students' overall well-being.",
+        "image_url": "https://ibb.co/cwXSNfV",
+        "category": "average"
+      },
+      {
+        "_id": "609c805b10034f001e001108",
+        "college_name": "RST University",
+        "admission_dates": "Aug 10 - Sep 30",
+        "events": "Dance competition, seminars",
+        "research_history": "Trailblazing research initiatives",
+        "sports": "Badminton, Volleyball",
+        "details": "RST University fosters a culture of innovation and excellence. With a history of trailblazing research, it organizes events like the dance competition and seminars. The college encourages sports like badminton and volleyball for students' holistic growth.",
+        "image_url": "https://ibb.co/XJW9g5D",
+        "category": "average"
+      },
+      {
+        "_id": "609c805b10034f001e001109",
+        "college_name": "UVW College",
+        "admission_dates": "Sep 5 - Oct 20",
+        "events": "Fashion show, leadership talks",
+        "research_history": "Contributing to societal development",
+        "sports": "Football, Swimming",
+        "details": "UVW College empowers students to become change-makers. With a focus on contributing to societal development, it organizes events like the fashion show and leadership talks. The college actively promotes sports like football and swimming.",
+        "image_url": "https://ibb.co/1nqyb9t",
+        "category": "popular"
+      }       
+]
